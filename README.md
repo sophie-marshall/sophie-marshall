@@ -3,7 +3,7 @@
         <!-- <img src="/images/howdy.jpg"/> -->
         <h1 style="margin: 0;">👋🏼 howdy</h1>
         <div class="description" style="text-align: center;">
-            My name is Sophie and I'm a <code>Data Engineer</code> ____. Here you'll find a collection of my after-hours work including but not limited to: hack day projects, coursework, and machine learning projects. 
+            My name is Sophie and I'm a <code>Data Engineer</code>. Here you'll find a collection of my after-hours work including but not limited to: hack day projects, coursework, and machine learning projects. 
         </div>
     </div>
     <div class="skills" style="display: flex; flex-direction: column; align-items: center;">
