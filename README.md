@@ -12,6 +12,7 @@
         <div class="description" style="text-align: center;">
             While I’m most comfortable with data-driven <code>Python</code> and <code>SQL</code> tasks, I have been an active contributor to web development projects using modern frameworks like <code>Next.js</code>, <code>React</code>, and <code>Svelte</code>.
         </div>
+        <br/>
         <table style="width: 100%">
             <tr>
                 <th>Skill</th>
