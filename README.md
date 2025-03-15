@@ -1,13 +1,13 @@
 <main style="display: flex; flex-direction: column; gap: 50px">
     <div class="intro" style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/howdy.jpg"/>
+        <!-- <img src="/images/howdy.jpg"/> -->
         <h1 style="margin: 0;">howdy</h1>
         <div class="description" style="text-align: center;">
             My name is Sophie and I'm a <code>Data Engineer</code> ____. Here you'll find a collection of my after-hours work including but not limited to: hack day projects, coursework, and machine learning projects. 
         </div>
     </div>
     <div class="skills" style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/skills.jpg" style="display: flex;margin-right: 70px;"/>
+        <!-- <img src="/images/skills.jpg" style="display: flex;margin-right: 70px;"/> -->
         <h1 style="margin: 0;">skills</h1>
         <div class="description" style="text-align: center;">
             While I’m most comfortable with data-driven <code>Python</code> and <code>SQL</code> tasks, I have been an active contributor to web development projects using modern frameworks like <code>Next.js</code>, <code>React</code>, and <code>Svelte</code>.
@@ -46,7 +46,7 @@
         </table>
     </div>
         <div class="contact" style="display: flex; flex-direction: column; align-items: center;">
-        <img src="/images/still-reading.jpg"/>
+        <!-- <img src="/images/still-reading.jpg"/> -->
         <h1 style="margin: 0;">still reading?</h1>
         <div class="description" style="text-align: center;">
             Let's connect! Email is best, but any of the below work just fine 😄
